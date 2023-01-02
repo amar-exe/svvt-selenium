@@ -68,8 +68,6 @@ public class Lab10 {
                     webDriver.findElement(By.xpath("//*[@id=\"fadein\"]/section[2]/div[2]/div/div/div[2]/div/div/div/div/div/p/span/span"))
                             .getText()
                     );
-
-
         }
 
 
